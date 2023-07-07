@@ -24,6 +24,12 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+### Portfolios
+<code><img height="60" src="https://avatars.githubusercontent.com/u/983927"></code>
+<code><img height="60" src="https://avatars.githubusercontent.com/u/3221291"></code>
+<code><img height="60" src="https://avatars.githubusercontent.com/u/19369327"></code>
+<code><img height="60" src="https://avatars.githubusercontent.com/u/47359"></code>
+
 ### DevOps💙 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
