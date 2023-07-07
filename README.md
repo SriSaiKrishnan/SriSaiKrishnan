@@ -13,7 +13,7 @@
 
 - 💻 Currently working at Freshworks, Inc.
 - ✨ I'm passionate about learning new things!
-- 💬 Ask me anything related to Java, Selenium, Rest Assured & Appium, I'll try my best to help.
+- 💬 Ask me anything related to Java, Selenium, Rest Assured, Appium & Software Testing Concepts, I'll try my best to help.
 - 📫 How to reach me: You can connect with me on LinkedIn.
 
 
