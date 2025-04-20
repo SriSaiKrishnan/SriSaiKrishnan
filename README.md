@@ -26,7 +26,7 @@
 
 ### Test Automation Tools 🏹
 <code><img height="60" src="https://avatars.githubusercontent.com/u/983927"></code>
-<code><img height="60" src="src="https://avatars.githubusercontent.com/u/63393659"></code>
+<code><img height="60" src="https://avatars.githubusercontent.com/u/63393659"></code>
 <code><img height="60" src="https://avatars.githubusercontent.com/u/3221291"></code>
 <code><img height="60" src="https://avatars.githubusercontent.com/u/19369327"></code>
 <code><img height="60" src="https://avatars.githubusercontent.com/u/47359"></code>
